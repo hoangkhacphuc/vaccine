@@ -65,7 +65,6 @@ $routes->group('api', function($routes){
 
 });
 
-
 /*
  * --------------------------------------------------------------------
  * Additional Routing
